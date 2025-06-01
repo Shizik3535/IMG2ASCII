@@ -1,6 +1,6 @@
 ## Виртуальное пространство и установка зависимостей
 ```commandline
-python -m vevn .venv
+python -m venv .venv
 .\.venv\Scripts\activate
 pip install -r .\requirements.txt
 ```
